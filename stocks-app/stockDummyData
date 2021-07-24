@@ -1,0 +1,29 @@
+   [{
+        id: 1,
+        img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/600px-Facebook_Logo_%282019%29.png',
+        ticker: 'FB',
+        price: '370 USD',
+        pctChange: 2.5,
+    },
+    {
+        id: 2,
+        img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/368px-Google_2015_logo.svg.png',
+        ticker: 'GOOG',
+        price: '1500 USD',
+        pctChange: 4.3,
+    },
+    {
+        id: 3,
+        img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/368px-Google_2015_logo.svg.png',
+        ticker: 'AAPL',
+        price: '1500 USD',
+        pctChange: 4.3,
+    },
+    {
+        id: 4,
+        img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/368px-Google_2015_logo.svg.png',
+        ticker: 'TSLA',
+        price: '1500 USD',
+        pctChange: 4.3,
+    }
+];
